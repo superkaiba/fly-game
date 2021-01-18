@@ -6,4 +6,4 @@ My goal in making this game was to show people the beauty of nature and show the
 
 Visual assets and sounds found online (copyright free). Music composed by me using Studio One 4.
 
-Download Mac/Windows build here: https://drive.google.com/drive/folders/1Zamw96s1YWk9AIrrUDZXfbCxNZ_VLPdk?usp=sharing
+Download Mac/Windows build here: https://thomasjiralerspong.itch.io/fly
